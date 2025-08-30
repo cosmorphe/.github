@@ -31,5 +31,5 @@ Morphē は単なる静止した形ではなく、
 ---
 
 ## 🚀 Projects
-- [your-app-repo](https://github.com/cosmorphe/agentory) — 予定行動管理アプリケーション
-- [another-repo](https://github.com/cosmorphe/agentory-pages) — サンプルプレビューサイト
+- [agentory](https://github.com/cosmorphe/agentory) — 予定行動管理アプリケーション
+- [agentory-pages](https://github.com/cosmorphe/agentory-pages) — サンプルプレビューサイト
