@@ -1,7 +1,6 @@
 # Cosmorphē / cosmorphe
 
-**秩序と変容のせめぎ合いから、新しい形が創発する。**  
-**Emerging new forms from the tension between order and transformation.**
+**Emerging new forms from the tension between order and transformation.**  
 
 ---
 
@@ -9,25 +8,34 @@
 
 Cosmorphē is a word born from Cosmos (the ordered whole) and Morphē (form, formality).
 
-Here, morphē does not mean a static or fixed shape.
-It signifies a form that emerges through ongoing change and transformation —
-a temporary equilibrium that arises in the tension between order and flux.
+Here, morphē does not mean a static or fixed shape.  
+It signifies a form that emerges through ongoing change and transformation —  
+a temporary equilibrium that arises in the tension between order and flux.  
 Such forms appear, dissolve, and shift into new ones.
 
-Cosmorphē stands as a guiding beacon:
-an ideal vision of the whole that can never be fully attained,
-yet remains something we must always strive toward.
-It resonates both with the scientific endeavor to seek the laws of nature,
-and with the creative interplay between humans and generative AI,
-where new orders emerge within transformation.
+Cosmorphē stands as a guiding beacon:  
+an ideal vision of the whole that can never be fully attained,  
+yet remains something we must always strive toward.  
+It resonates both with the scientific endeavor to seek the laws of nature,  
+and with the creative interplay between humans and generative AI,  
+where new orders emerge within transformation.  
 
-This project is conceived as a place where order and transformation become the source of creation —
-where we explore and give shape to the forms that emerge in between.
+This project is conceived as a place where order and transformation become the source of creation —  
+where we explore and give shape to the forms that emerge in between.  
 
-Here, participants are invited to embrace change without fear,
-to enjoy the moments of emergence,
-and to move closer, step by step, toward Cosmorphē through their own acts of creation.
+Here, participants are invited to embrace change without fear,  
+to enjoy the moments of emergence,  
+and to move closer, step by step, toward Cosmorphē through their own acts of creation.  
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+# Cosmorphē（コスモルフェ）
+
+**秩序と変容のせめぎ合いから、新しい形が創発する。**  
+
+---
 
 ## 🌌 理念
 
@@ -53,7 +61,3 @@ Morphē は単なる静止した形ではなく、
 自らの創造を通じて **Cosmorphē** に少しずつ近づいていきます。  
 
 ---
-
-## 🚀 Projects
-- [agentory](https://cosmorphe.github.io/agentory-pages) — 予定行動管理アプリケーション サンプルプレビューページ
-- [agentory-pages](https://medimadhi.github.io/) — 創作者
